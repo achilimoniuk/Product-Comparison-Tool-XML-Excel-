@@ -5,10 +5,10 @@ The objective of this code was to compare the number of products listed in an Ex
 
 ## Requirements
 To run this tool, make sure you have the following packages installed:
-lxml
-pandas
-tqdm
-os
+- lxml
+- pandas
+- tqdm
+- os
 
 ## Usage
 1. Prepare Excel and XML files and ensure that the Excel file and XML file are in the correct format and located in the same directory as the code files.
