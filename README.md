@@ -4,7 +4,7 @@
 The objective of this code was to compare the number of products listed in an Excel file with those in an XML file. Initially, the data from the Excel file needed to be integrated with a CSV file using a unique identifier. The "check_count.ipynb" file verifies whether the total count of products grouped by specific attributes is identical between the XML and Excel files. The "check_extended.ipynb" file examines whether all products share the same attributes in both files. Additionally, certain products are required to be eliminated from the dataframe generated from the Excel file. Ultimately, a CSV file containing the analysis results is generated.
 
 ## Files
-- "check_count.ipynb":  Tool for comparing the count of grouped products.
+- ~check_count.ipynb~:  Tool for comparing the count of grouped products.
 - "check_extended.ipynb": Tool for comparing products and their attributes.
 
 ## Requirements
